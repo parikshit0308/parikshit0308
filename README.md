@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @parikshit0308
-- 👀 I’m interested in web development and DSA
+- 👀 I’m interested in web development, DSA and Operating System
 - 🌱 I’m currently learning Angular and C#
 - 📫 How to reach me sparikshit955@gmail.com
 
