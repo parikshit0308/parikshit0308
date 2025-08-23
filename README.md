@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @parikshit0308
 - 👀 I’m interested in web development, DSA and Operating System
-- 🌱 I’m currently learning Angular, C# and SQL
+- 🌱 I’m currently learning Angular, MEAN
 - 📫 How to reach me sparikshit955@gmail.com
 
 
